@@ -14,7 +14,7 @@ export function ContextProvider({ children }) {
   const searchedData = data.filter((item) => {
     return item.title.label.includes(search);
   });
-
+  
   //change list view to grid view
   const handleToggleListView = () => {
     setToggleView(1);

@@ -16,7 +16,7 @@ const Footer = ({ title }) => {
     </View>
   );
 };
-
+   
 export default Footer;
 
 const styles = StyleSheet.create({

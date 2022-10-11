@@ -15,5 +15,5 @@ const Icon = ({ iconUrl, iconWidth, iconHeight, handlePress, marginH }) => {
     </TouchableOpacity>
   );
 };
-
+  
 export default Icon;

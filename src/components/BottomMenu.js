@@ -8,7 +8,7 @@ const BottomMenu = ({ children }) => {
       <View style={styles.iconsContainer}>{children}</View>
     </View>
   );
-};
+};  
 
 export default BottomMenu;
 

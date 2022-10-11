@@ -9,7 +9,7 @@ const AlbumEmptyItem = () => {
     </View>
   );
 };
-
+  
 export default AlbumEmptyItem;
 
 const styles = StyleSheet.create({

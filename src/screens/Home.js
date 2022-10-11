@@ -15,7 +15,7 @@ import { AlbumList, BottomMenu, Header, Icon } from "../components";
 import { assets, COLORS } from "../constants";
 
 const endpointURL = "https://itunes.apple.com/us/rss/topalbums/limit=100/json";
-
+  
 const windowHeight = Dimensions.get("window").height / 2;
 
 const Home = () => {

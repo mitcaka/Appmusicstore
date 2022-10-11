@@ -7,7 +7,7 @@ import Icon from "./Icon";
 
 const Header = ({ title }) => {
   const { search, setSearch } = useContext(Context);
-
+   
   return (
     <View style={styles.headerContainer}>
       <View

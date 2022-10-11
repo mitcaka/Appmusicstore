@@ -9,7 +9,7 @@ import {
   Poppins_500Medium,
   Poppins_700Bold,
 } from "@expo-google-fonts/poppins";
-
+  
 import { Details, Favourites, Home } from "./src/screens";
 
 const Stack = createNativeStackNavigator();

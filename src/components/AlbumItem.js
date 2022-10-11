@@ -9,7 +9,7 @@ import Icon from "./Icon";
 
 const AlbumItem = ({ item }) => {
   const navigation = useNavigation();
-
+   
   const { toggleView, isExistInFav, handleAddToFav, handleRemoveFromFav } =
     useContext(Context);
 

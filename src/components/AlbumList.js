@@ -9,7 +9,7 @@ import Footer from "./Footer";
 const AlbumList = () => {
   const { searchedData, toggleView } = useContext(Context);
   return (
-    <FlatList
+    <FlatList  
       data={searchedData}
       keyExtractor={(item) => item.id.attributes["im:id"]}
       renderItem={({ item }) => <AlbumItem item={item} />}

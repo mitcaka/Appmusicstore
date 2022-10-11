@@ -14,7 +14,7 @@ import { useNavigation } from "@react-navigation/native";
 
 import { assets, COLORS, SHADOW } from "../constants";
 import { BottomMenu, Button, Icon } from "../components";
-
+  
 const Details = ({ route }) => {
   const navigation = useNavigation();
   const item = route.params;

@@ -26,5 +26,5 @@ const FavList = () => {
     />
   );
 };
-
+  
 export default FavList;

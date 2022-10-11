@@ -16,7 +16,7 @@ import list from "../assets/icons/list.png";
 import searchDark from "../assets/icons/searchDark.png";
 import searchLight from "../assets/icons/searchLight.png";
 import tiles from "../assets/icons/tiles.png";
-
+  
 //Images
 import logoWhite from "../assets/images/logowhite.png";
 import splashbg from "../assets/images/splashbg.png";

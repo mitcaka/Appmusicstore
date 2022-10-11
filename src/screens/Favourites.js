@@ -15,7 +15,7 @@ const Favourites = ({ navigation }) => {
         <View style={{ zIndex: 0 }}>
           <FavList />
         </View>
-
+  
         <BottomMenu>
           <Icon
             iconUrl={assets.home}
